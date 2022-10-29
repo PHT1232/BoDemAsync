@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\BoDemAsync\BoDemAsync\bin\Debug\BoDemAsync.exe.config
+C:\Users\ADMIN\source\repos\BoDemAsync\BoDemAsync\bin\Debug\BoDemAsync.exe
+C:\Users\ADMIN\source\repos\BoDemAsync\BoDemAsync\bin\Debug\BoDemAsync.pdb
+C:\Users\ADMIN\source\repos\BoDemAsync\BoDemAsync\obj\Debug\BoDemAsync.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\BoDemAsync\BoDemAsync\obj\Debug\BoDemAsync.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\BoDemAsync\BoDemAsync\obj\Debug\BoDemAsync.Form1.resources
+C:\Users\ADMIN\source\repos\BoDemAsync\BoDemAsync\obj\Debug\BoDemAsync.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\BoDemAsync\BoDemAsync\obj\Debug\BoDemAsync.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\BoDemAsync\BoDemAsync\obj\Debug\BoDemAsync.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\BoDemAsync\BoDemAsync\obj\Debug\BoDemAsync.exe
+C:\Users\ADMIN\source\repos\BoDemAsync\BoDemAsync\obj\Debug\BoDemAsync.pdb
